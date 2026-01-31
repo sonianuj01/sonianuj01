@@ -43,7 +43,7 @@ https://drive.google.com/drive/folders/1_tnaXoQgFPvdgegtqXZxwu_fyVR1psYX?usp=dri
 
 ## 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,vite" />
 </p>
 
 ## 🧠 Backend
