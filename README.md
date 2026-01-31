@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Verma;Full+Stack+Developer;IIIT+Bhopal+Student;Backend+%26+Cloud+Enthusiast" />
 </p>
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> I'm Anuj Verma
-</h1>
 
 <h3 align="center">
 🚀 Full-Stack Developer | 🎓 IIIT Bhopal | 🇮🇳 India
@@ -62,35 +59,6 @@ https://drive.google.com/drive/folders/1_tnaXoQgFPvdgegtqXZxwu_fyVR1psYX?usp=dri
 ## 🧪 Tools & Utilities
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,netlify,heroku" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sonianuj01&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonianuj01&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sonianuj01&theme=darkhub&no-frame=true&row=1"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonianuj01&theme=tokyo-night"/>
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sonianuj01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
