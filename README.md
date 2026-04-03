@@ -23,7 +23,7 @@
 
 ## 📄 Know more about me  
 🔗 **Resume & Experience**  
-https://drive.google.com/drive/folders/1_tnaXoQgFPvdgegtqXZxwu_fyVR1psYX?usp=drive_link  
+https://drive.google.com/drive/folders/1_tnaXoQgfPvdgegtqXZXwu_fyVR1psYX?usp=drive_link
 
 📧 **Email:** `anujsonist01@gmail.com`
 
