@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Verma;Full+Stack+Developer;IIIT+Bhopal+Student;Backend+%26+Cloud+Enthusiast" />
 </p>
 
-
 <h3 align="center">
 🚀 Full-Stack Developer | 🎓 IIIT Bhopal | 🇮🇳 India
 </h3>
@@ -38,6 +37,13 @@ https://drive.google.com/drive/folders/1_tnaXoQgFPvdgegtqXZxwu_fyVR1psYX?usp=dri
 </p>
 
 ---
+## 📊 LeetCode Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anujsoni01?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
 
 # 🛠️ Tech Stack
 
@@ -65,4 +71,3 @@ https://drive.google.com/drive/folders/1_tnaXoQgFPvdgegtqXZxwu_fyVR1psYX?usp=dri
 
 ## 💡 Fun Fact
 > I love turning **ideas into real-world products** using code 🚀
-
